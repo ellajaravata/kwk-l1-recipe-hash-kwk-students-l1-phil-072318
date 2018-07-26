@@ -7,7 +7,7 @@ $perfect_10_recipe = {
 } 
 puts perfect_10_recipe
  
- - almond flour - 2 cups
+  - almond flour - 2 cups
   - gluten freewhole oats - 1 cup
   - kosher salt - 1/2 tea spoon
   - baking powder  - 1/2 tea spoon
