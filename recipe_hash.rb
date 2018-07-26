@@ -32,7 +32,6 @@ end
  :ingredients => ["almond flour", "gluten freewhole oats", "kosher salt", "baking powder", "baking soda", "Xanthan Gum", "slivered almonds, lightly toasted", "mini dark chocolate chips", "olive oil", "agave"],
  :amounts => ["2", "1",".5", ".5", ".25", ".5", ".25", ".75", ".5", ".25"]
  } 
-end
 puts perfect_10_recipe[:amounts][7]
 
 #3: Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
