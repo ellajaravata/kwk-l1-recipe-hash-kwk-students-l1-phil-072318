@@ -40,7 +40,7 @@ puts perfect_10_recipe[:amounts][7]
  :ingredients => ["almond flour", "gluten freewhole oats", "kosher salt", "baking powder", "baking soda", "Xanthan Gum", "slivered almonds, lightly toasted", "mini dark chocolate chips", "olive oil", "agave"],
  :amounts => ["2", "1",".5", ".5", ".25", ".5", ".25", ".75", ".5", ".25"]
  } 
-puts ingredients_and_amounts
+puts ingredients_and_amounts(perfect_10_recipe)
 
 #4: Now use `puts` to print out just the ingredients without the amounts. You'll want to use the `each_key` method.
 
