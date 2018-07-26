@@ -27,14 +27,13 @@ end
 
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
-def amount_of_chocolate_chips()
   
  perfect_10_recipe = {
  :ingredients => ["almond flour", "gluten freewhole oats", "kosher salt", "baking powder", "baking soda", "Xanthan Gum", "slivered almonds, lightly toasted", "mini dark chocolate chips", "olive oil", "agave"],
  :amounts => ["2", "1",".5", ".5", ".25", ".5", ".25", ".75", ".5", ".25"]
  } 
 end
-puts perfect_10_recipe
+puts perfect_10_recipe[:amounts][7]
 
 #3: Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
 def ingredients_and_amounts(perfect_10_recipe)
