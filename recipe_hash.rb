@@ -1,13 +1,13 @@
 #code your solutions here
 
-# #1. Create a hash called `perfect_10_recipe` that has the following data:
-# $perfect_10_recipe = {
-# :ingredients => ["almond flour", "gluten freewhole oats", "kosher salt", "baking powder", "baking soda", "Xanthan Gum", "slivered almonds, lightly toasted", "mini dark chocolate chips", "olive oil", "agave"],
-# :amounts => ["2", "1",".5", ".5", ".25", ".5", ".25", ".75", ".5", ".25"]
-# } 
-# puts perfect_10_recipe
+#1. Create a hash called `perfect_10_recipe` that has the following data:
+$perfect_10_recipe = {
+:ingredients => ["almond flour", "gluten freewhole oats", "kosher salt", "baking powder", "baking soda", "Xanthan Gum", "slivered almonds, lightly toasted", "mini dark chocolate chips", "olive oil", "agave"],
+:amounts => ["2", "1",".5", ".5", ".25", ".5", ".25", ".75", ".5", ".25"]
+} 
+puts perfect_10_recipe
  
-#  - almond flour - 2 cups
+ - almond flour - 2 cups
   - gluten freewhole oats - 1 cup
   - kosher salt - 1/2 tea spoon
   - baking powder  - 1/2 tea spoon
