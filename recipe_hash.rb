@@ -32,7 +32,6 @@ def amount_of_chocolate_chips()
  :ingredients => ["almond flour", "gluten freewhole oats", "kosher salt", "baking powder", "baking soda", "Xanthan Gum", "slivered almonds, lightly toasted", "mini dark chocolate chips", "olive oil", "agave"],
  :amounts => ["2", "1",".5", ".5", ".25", ".5", ".25", ".75", ".5", ".25"]
  } 
- puts amount_of_chocolate_chips
 end
 amount_of_chocolate_chips()
 
